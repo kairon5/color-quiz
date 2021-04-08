@@ -1,0 +1,22 @@
+body {
+    background-color:dimgray;
+}
+.maintxt {
+    position:absolute;
+    font-family:'Avenir.otf',sans-serif;
+    font-size:30px;
+    user-select: none;
+}
+.pictures {
+    position:absolute;
+    border-radius: 50%;
+    width:45px;
+    height:45px;
+    display: inline-block;
+}
+.seperator {
+    position:absolute;
+    width:475px;
+    height:4px;
+    background-color:black;
+}
